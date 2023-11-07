@@ -4,6 +4,9 @@
 本工具从HTML文档中提取内联样式，并将其释放到外联CSS文件中，减少原HTML体积。
 This tool extracts inline styles from an HTML document and creates an external CSS file, then updates the HTML file to link to the newly created CSS file.
 
+点击下载Windows可执行文件版本：[style_extractor.zip](https://github.com/soulxyz/HTML-Inline-Style-Extractor/files/13274850/style_extractor.zip)
+
+
 ## 功能特点 / Features
 
 - 自动在当前目录寻找HTML文件。
